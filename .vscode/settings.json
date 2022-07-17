@@ -1,0 +1,6 @@
+{
+    "javascript.format.insertSpaceAfterConstructor": false,
+    "html.format.indentHandlebars": false,
+    "html.format.indentInnerHtml": false,
+    "html.autoClosingTags": true
+}
